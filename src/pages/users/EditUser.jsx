@@ -39,7 +39,7 @@ const EditUser = () => {
         lastName: selectedUser.lastName,
         email: selectedUser.email,
         phone: selectedUser.phone,
-        age: selectedUser.age.toString(),
+        age: selectedUser.age,
         type: selectedUser.type,
         groupIds: selectedUser.groups ? selectedUser.groups.map((group) => group.id) : [],
       });
