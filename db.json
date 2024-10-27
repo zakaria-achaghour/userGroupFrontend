@@ -1,0 +1,477 @@
+{
+  "users": [
+    {
+      "firstName": "Gerald",
+      "lastName": "Mcclain",
+      "email": "keith55@hotmail.com",
+      "phone": "(987)191-3885x4107",
+      "age": "32",
+      "type": "Regular",
+      "groupIds": [
+        "3",
+        "7"
+      ],
+      "id": "6312"
+    },
+    {
+      "firstName": "Jason",
+      "lastName": "Young",
+      "email": "mahoneyjenna@smith.org",
+      "phone": "001-107-859-8416x77282",
+      "age": "22",
+      "type": "Guest",
+      "groupIds": [
+        "3"
+      ],
+      "id": "1325"
+    },
+    {
+      "firstName": "Daniel",
+      "lastName": "Smith",
+      "email": "howellandrew@yahoo.com",
+      "phone": "001-760-955-6650x92114",
+      "age": "31",
+      "type": "VIP",
+      "groupIds": [
+        "10"
+      ],
+      "id": "2928"
+    },
+    {
+      "firstName": "Ernest",
+      "lastName": "Horne",
+      "email": "hernandeztroy@hall-meyer.info",
+      "phone": "(323)381-7839",
+      "age": "40",
+      "type": "Regular",
+      "groupIds": [
+        "7"
+      ],
+      "id": "1500"
+    },
+    {
+      "firstName": "David",
+      "lastName": "Benitez",
+      "email": "derekwright@yahoo.com",
+      "phone": "+1-513-361-7401x62819",
+      "age": "60",
+      "type": "VIP",
+      "groupIds": [
+        "7"
+      ],
+      "id": "6524"
+    },
+    {
+      "firstName": "William",
+      "lastName": "Barnett",
+      "email": "joshua07@anderson.org",
+      "phone": "001-015-128-7915x224",
+      "age": "19",
+      "type": "VIP",
+      "groupIds": [
+        "2"
+      ],
+      "id": "6236"
+    },
+    {
+      "firstName": "Amanda",
+      "lastName": "Lawrence",
+      "email": "priscilla80@gmail.com",
+      "phone": "001-019-154-9114",
+      "age": "47",
+      "type": "Regular",
+      "groupIds": [
+        "7"
+      ],
+      "id": "8079"
+    },
+    {
+      "firstName": "Christopher",
+      "lastName": "Martin",
+      "email": "amber98@warner-townsend.com",
+      "phone": "001-753-146-4512",
+      "age": "35",
+      "type": "Guest",
+      "groupIds": [
+        "3"
+      ],
+      "id": "5899"
+    },
+    {
+      "firstName": "Lisa",
+      "lastName": "Sanchez",
+      "email": "derekgonzalez@yahoo.com",
+      "phone": "(430)765-1070x0827",
+      "age": "70",
+      "type": "Guest",
+      "groupIds": [
+        "7"
+      ],
+      "id": "3512"
+    },
+    {
+      "firstName": "Lori",
+      "lastName": "Flores",
+      "email": "tinaward@yahoo.com",
+      "phone": "2664832208",
+      "age": "42",
+      "type": "VIP",
+      "groupIds": [
+        "7"
+      ],
+      "id": "1268"
+    },
+    {
+      "firstName": "Anthony",
+      "lastName": "Ali",
+      "email": "etrujillo@mcintosh-cox.com",
+      "phone": "1130472154",
+      "age": "53",
+      "type": "Regular",
+      "groupIds": [
+        "6"
+      ],
+      "id": "3509"
+    },
+    {
+      "firstName": "Chase",
+      "lastName": "Arias",
+      "email": "brandon56@mccullough.net",
+      "phone": "260-001-6715",
+      "age": "38",
+      "type": "Guest",
+      "groupIds": [
+        "8"
+      ],
+      "id": "2877"
+    },
+    {
+      "firstName": "Robin",
+      "lastName": "Bell",
+      "email": "colethomas@hotmail.com",
+      "phone": "549.075.3217",
+      "age": "67",
+      "type": "Guest",
+      "groupIds": [
+        "5"
+      ],
+      "id": "7195"
+    },
+    {
+      "firstName": "Peggy",
+      "lastName": "Scott",
+      "email": "hjackson@gutierrez.net",
+      "phone": "(632)914-5696x52790",
+      "age": "65",
+      "type": "VIP",
+      "groupIds": [
+        "8"
+      ],
+      "id": "6690"
+    },
+    {
+      "firstName": "Laura",
+      "lastName": "Jefferson",
+      "email": "mconway@hotmail.com",
+      "phone": "579-614-5673",
+      "age": "32",
+      "type": "Guest",
+      "groupIds": [
+        "4"
+      ],
+      "id": "6763"
+    },
+    {
+      "firstName": "Roberta",
+      "lastName": "Williams",
+      "email": "amanda46@campbell.com",
+      "phone": "895.827.4528x310",
+      "age": "42",
+      "type": "Regular",
+      "groupIds": [
+        "1"
+      ],
+      "id": "9847"
+    },
+    {
+      "firstName": "Jeremy",
+      "lastName": "Sandoval",
+      "email": "lauren53@murray-smith.biz",
+      "phone": "461.310.7292x0544",
+      "age": "56",
+      "type": "Guest",
+      "groupIds": [
+        "3"
+      ],
+      "id": "2775"
+    },
+    {
+      "firstName": "Amber",
+      "lastName": "Taylor",
+      "email": "kellyjames@gmail.com",
+      "phone": "721.411.7312",
+      "age": "26",
+      "type": "Regular",
+      "groupIds": [
+        "2"
+      ],
+      "id": "5761"
+    },
+    {
+      "firstName": "Kim",
+      "lastName": "Ramirez",
+      "email": "marcus98@rice.org",
+      "phone": "001-688-649-6852x07117",
+      "age": "32",
+      "type": "Guest",
+      "groupIds": [
+        "1"
+      ],
+      "id": "4476"
+    },
+    {
+      "firstName": "Sharon",
+      "lastName": "Webb",
+      "email": "thompsonjason@wilson-bailey.com",
+      "phone": "1473840636",
+      "age": "61",
+      "type": "VIP",
+      "groupIds": [
+        "6"
+      ],
+      "id": "6724"
+    },
+    {
+      "firstName": "Jill",
+      "lastName": "Figueroa",
+      "email": "jonesaustin@gmail.com",
+      "phone": "(710)587-0576",
+      "age": "40",
+      "type": "Guest",
+      "groupIds": [
+        "2"
+      ],
+      "id": "2570"
+    },
+    {
+      "firstName": "Rachel",
+      "lastName": "Hartman",
+      "email": "tbrown@yahoo.com",
+      "phone": "915-243-2398",
+      "age": "36",
+      "type": "VIP",
+      "groupIds": [
+        "7"
+      ],
+      "id": "9530"
+    },
+    {
+      "firstName": "Alexander",
+      "lastName": "Scott",
+      "email": "jcox@hotmail.com",
+      "phone": "(725)475-0073x6414",
+      "age": "24",
+      "type": "VIP",
+      "groupIds": [
+        "4"
+      ],
+      "id": "9522"
+    },
+    {
+      "firstName": "Angela",
+      "lastName": "Schultz",
+      "email": "changdennis@yahoo.com",
+      "phone": "087.404.4695x369",
+      "age": "37",
+      "type": "Guest",
+      "groupIds": [
+        "8"
+      ],
+      "id": "7218"
+    },
+    {
+      "firstName": "Adrienne",
+      "lastName": "Walters",
+      "email": "kgonzalez@gmail.com",
+      "phone": "696-854-5568x707",
+      "age": "20",
+      "type": "Regular",
+      "groupIds": [
+        "3"
+      ],
+      "id": "1398"
+    },
+    {
+      "firstName": "Walter",
+      "lastName": "Perry",
+      "email": "heather14@hotmail.com",
+      "phone": "374-890-5695",
+      "age": "49",
+      "type": "Guest",
+      "groupIds": [
+        "9"
+      ],
+      "id": "8814"
+    },
+    {
+      "firstName": "Monica",
+      "lastName": "Ross",
+      "email": "rossmonica@yahoo.com",
+      "phone": "(426)754-5989",
+      "age": "35",
+      "type": "VIP",
+      "groupIds": [
+        "8"
+      ],
+      "id": "6632"
+    },
+    {
+      "firstName": "Phillip",
+      "lastName": "Hansen",
+      "email": "phansen@gmail.com",
+      "phone": "348.790.0241",
+      "age": "58",
+      "type": "Regular",
+      "groupIds": [
+        "6"
+      ],
+      "id": "1794"
+    },
+    {
+      "firstName": "Donna",
+      "lastName": "Chapman",
+      "email": "chapmandonna@hotmail.com",
+      "phone": "001-283-435-7589x841",
+      "age": "34",
+      "type": "Guest",
+      "groupIds": [
+        "5"
+      ],
+      "id": "9213"
+    },
+    {
+      "firstName": "Timothy",
+      "lastName": "Powell",
+      "email": "tim.powell@domain.com",
+      "phone": "951-682-5796",
+      "age": "44",
+      "type": "VIP",
+      "groupIds": [
+        "4"
+      ],
+      "id": "6231"
+    }
+  ],
+  "groups": [
+    {
+      "name": "Group 3",
+      "description": "Description 33",
+      "id": "1"
+    },
+    {
+      "name": "Group 33",
+      "description": "Description 3",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "name": "Group 4",
+      "description": "Description 4"
+    },
+    {
+      "id": "5",
+      "name": "Group 5",
+      "description": "Description 5"
+    },
+    {
+      "id": "6",
+      "name": "Group 6",
+      "description": "Description 6"
+    },
+    {
+      "id": "7",
+      "name": "Group 7",
+      "description": "Description 7"
+    },
+    {
+      "id": "8",
+      "name": "Group 8",
+      "description": "Description 8"
+    },
+    {
+      "id": "9",
+      "name": "Group 9",
+      "description": "Description 9"
+    },
+    {
+      "id": "10",
+      "name": "Group 10",
+      "description": "Description 10"
+    },
+    {
+      "id": "11",
+      "name": "Group 11",
+      "description": "Description 11"
+    },
+    {
+      "id": "13",
+      "name": "Group 13",
+      "description": "Description 13"
+    },
+    {
+      "id": "14",
+      "name": "Group 14",
+      "description": "Description 14"
+    },
+    {
+      "id": "15",
+      "name": "Group 15",
+      "description": "Description 15"
+    },
+    {
+      "id": "16",
+      "name": "Group 16",
+      "description": "Description 16"
+    },
+    {
+      "id": "17",
+      "name": "Group 17",
+      "description": "Description 17"
+    },
+    {
+      "id": "18",
+      "name": "Group 18",
+      "description": "Description 18"
+    },
+    {
+      "id": "19",
+      "name": "Group 19",
+      "description": "Description 19"
+    },
+    {
+      "id": "20",
+      "name": "Group 20",
+      "description": "Description 20"
+    },
+    {
+      "id": "21",
+      "name": "Group 21",
+      "description": "Description 21"
+    },
+    {
+      "id": "22",
+      "name": "Group 22",
+      "description": "Description 22"
+    },
+    {
+      "id": "5569",
+      "name": "GROUp 25",
+      "description": "25"
+    },
+    {
+      "id": "79c8",
+      "name": "GROUP 26",
+      "description": "group 26"
+    }
+  ]
+}
