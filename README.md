@@ -1,70 +1,100 @@
-# Getting Started with Create React App
+# About the App 
+This app Manage users & Groups comunicating with the backend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 1. Clone the repository
+https://github.com/zakaria-achaghour/userGroupFrontend.git
 
-## Available Scripts
+## 2. CD to the new directory
+`cd userGroupFrontend`
+## 4. Run Command
+`npm install`
 
-In the project directory, you can run:
-
+## Run Project
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 9. Link to the app
+`http://localhost:3000`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## The backend should be runing also 
 
-### `npm test`
+# -----------------------------------------------------------------
+# Answer Questions
+# -----------------------------------------------------------------
+## 1 How did you decide on the technical and architectural choices used as part of
+your solution
+ - I used React for the frontend as it provides a powerful component-based architecture that encourages code reuse.
+- Redux Redux Toolkit for state management to centralize application state and easily manage user authentication and shared data.
+- React router for for handling routes.
+- Axios was used for API calls & allows interceptors for token-based authentication.
+- separate the application into components and pages.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 2 Are there any improvements you could make to your submission
+- Error Handling
+- Performance Optimizations ( for state managment )
 
-### `npm run build`
+## 3 What would you do differently if you were allocated more time?
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+-  adding more reusable components.
+- Add comments and documentation for better maintainability.
+- UI Enhancements could better more.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# -----------------------------------------------------------------
+# Sccreens
+# -----------------------------------------------------------------
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# -----------------------------------------------------------------
+## SignIn Page
+# -----------------------------------------------------------------
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![f1](https://github.com/user-attachments/assets/fe1b4b79-ab69-4c9b-b5b8-c692260bb628)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![f2](https://github.com/user-attachments/assets/0ef88b06-908d-4a6f-95e8-28676c1a994f)
 
-## Learn More
+![f3](https://github.com/user-attachments/assets/d37435ee-aa7f-472a-9590-9bcbd7251fca)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![f4](https://github.com/user-attachments/assets/9339c923-0117-4e3e-bd99-52acbc0ffc8a)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+# -----------------------------------------------------------------
+## Groups Page
+# -----------------------------------------------------------------
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![g1](https://github.com/user-attachments/assets/be90d89c-7c1a-423f-83f3-0934acd2e389)
+![g2](https://github.com/user-attachments/assets/1e9f90b6-58e0-4425-ab99-3b31cd04e9aa)
+![g3](https://github.com/user-attachments/assets/5d9355e7-5734-4a0b-88c1-1e6d13a3976a)
+![g4](https://github.com/user-attachments/assets/1510466e-7d64-4599-9a34-7c06f1849970)
+![g5](https://github.com/user-attachments/assets/6244908e-a84c-4d0c-afe8-0486f3052ef7)
+![g6](https://github.com/user-attachments/assets/7a3d91ec-5b1d-4995-94f0-4d6cffe750a0)
+![g7](https://github.com/user-attachments/assets/82db2b73-8617-400f-9851-a20f58f6769d)
+<img width="918" alt="g8" src="https://github.com/user-attachments/assets/9c097b30-dee4-4c4f-be25-57ea7e408780">
+# -----------------------------------------------------------------
+## Users Page
+# -----------------------------------------------------------------
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![u1](https://github.com/user-attachments/assets/1045857a-6012-4ccd-865a-51ab62671cfc)
+![u2](https://github.com/user-attachments/assets/e5ef439d-f3f2-44fd-a781-a541ecd1e011)
+![u3](https://github.com/user-attachments/assets/b91ee719-dc1b-4566-a72e-c377390721bc)
+![u4](https://github.com/user-attachments/assets/8ba48b23-dbde-4dfe-8d51-dc7c3ec4884e)
+![u5](https://github.com/user-attachments/assets/f2f10542-d26e-4dda-9235-2f383e56c082)
+![u6](https://github.com/user-attachments/assets/dec88581-0031-490d-9973-bbdf3f008a76)
+![u7](https://github.com/user-attachments/assets/6c6fa1d2-fbc7-4df7-858c-5e29ffad9943)
+![u8](https://github.com/user-attachments/assets/962effd3-2b5f-4379-910b-e7ddeb064130)
+![u9](https://github.com/user-attachments/assets/316d0304-5cfd-40ad-b208-b59f9df4daf7)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+# -----------------------------------------------------------------
+## Responsive & protected routes
+# -----------------------------------------------------------------
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![r3](https://github.com/user-attachments/assets/7310f01b-714b-4e64-bc3d-6b1a787b60d3)
+![r4](https://github.com/user-attachments/assets/b9f4bb6c-34d6-4680-9b79-0e020c5d753d)
+![r5](https://github.com/user-attachments/assets/ffed64cc-d678-43f8-b1c6-d11e7cd53603)
 
-### Deployment
+<img width="925" alt="protected route" src="https://github.com/user-attachments/assets/00e5879c-9d94-4295-844c-f2441ad9ed4d">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
